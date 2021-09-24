@@ -25,6 +25,5 @@ PROTECT YOU TOWER FROM THE ENEMY!
 3. Play and smile.
 
 ## Example Scene
-![image](https://user-images.githubusercontent.com/19890311/133613681-27f64e34-727d-422e-87a0-3fb23cc66647.png)
+![image](https://user-images.githubusercontent.com/19890311/134634558-15da19e2-3f8a-4fed-9a23-c65aa13df321.png)
 
-![image](https://user-images.githubusercontent.com/19890311/133613764-014fdfb6-197b-4efe-aa50-2089c6543098.png)
