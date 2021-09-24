@@ -1,6 +1,9 @@
 # Tower Defense Dilo
 PROTECT YOU TOWER FROM THE ENEMY!
 
+## Info
+There were only a few things that made an error during versioning while I update the code so I deleted it and re-uploaded the repo
+
 ### Project features:
 1. Character Movement
 2. Audio
